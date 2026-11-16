@@ -11,7 +11,7 @@ html, body, [class*="css"], .stApp, h1, h2, h3, p, div, span, button {
 """, unsafe_allow_html=True)
 
 st.title("ยินดีต้อนรับสู่โปรไฟล์ของฉัน ✨")
-st.write("นี่คือเว็บแอปพลิเคชันแรกในชีวิตของผม/ดิฉัน เขียนด้วยภาษา Python ครับ/ค่ะ")
+st.write("นี่คือเว็บแอปพลิเคชันแรกในชีวิตของฉัน เขียนด้วยภาษา Python ค่ะ")
 
 st.divider()
 
